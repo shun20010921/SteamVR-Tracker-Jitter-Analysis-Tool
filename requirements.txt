@@ -1,0 +1,4 @@
+openvr
+pyqtgraph
+PyQt5
+numpy

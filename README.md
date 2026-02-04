@@ -3,13 +3,14 @@
 VRトラッカーのジッタ（位置・回転のブレ）をリアルタイムで可視化・解析するツールです。  
 ベースステーション(BS)環境の最適化や、トラッキング精度の検証に利用できます。
 
+![Screenshot](docs/2.png)
+
 > [!TIP]
 > **実行ファイル版 (.exe) の配布**  
 > 本ツールの実行ファイルは **Booth** にて配布しています。  
 > 開発を応援していただける方は、ぜひこちらからのご購入・ダウンロードをお願いします！  
 > **[https://guetan.booth.pm/items/7949823](https://guetan.booth.pm/items/7949823)**
 
-![Screenshot](docs/screenshot.png)
 
 ## ✨ Features
 

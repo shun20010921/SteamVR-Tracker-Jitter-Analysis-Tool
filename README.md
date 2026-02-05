@@ -1,7 +1,8 @@
 # SteamVR Tracker Jitter Analysis Tool
 
 VRトラッカーのジッタ（位置・回転のブレ）をリアルタイムで可視化・解析するツールです。  
-ベースステーション(BS)環境の最適化や、トラッキング精度の検証に利用できます。
+Lighthouse方式(VIVE/Tundra Tracker)だけでなく、**SteamVRで認識される全てのトラッカー（IMU方式、SlimeVR、HaritoraXなど）**に対応しています。
+ベースステーション(BS)環境の最適化や、様々なトラッキング方式の精度検証に利用できます。
 
 ![Screenshot](docs/2.png)
 
